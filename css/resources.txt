@@ -7,7 +7,7 @@ http://necolas.github.io/normalize.css/
 Box sizing
 ==========
 div {
-  -webkit-box-sizing: content-box; // padding-box; content-box
+  -webkit-box-sizing: content-box; // padding-box (deprecated); content-box
      -moz-box-sizing: content-box;
           box-sizing: content-box;
 }
