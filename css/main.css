@@ -1,0 +1,15 @@
+/* Include here reset.css */
+
+/* Include here box-sizing.css */
+
+/*
+Class that will serve as a container for our elements. We can use this container 
+class on different elements to set a common width, center the elements on the 
+page, and apply some common horizontal padding
+*/
+.container {
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 960px;
+}
